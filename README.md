@@ -1,9 +1,11 @@
-# Clover Configuration for ASUS A411UF
+Clover Configuration for ASUS A411UF
+====================================
 Clover hotpatches for ASUS A411UF based on hieplpvip adapted for A411UF
 
 ![Alt text](https://www.asus.com/websites/global/products/p1YRAASx1rjXHLPF/img/all_img/img__case__gray__720.jpg)
 
-# System specification
+System specification
+====================
 
     1.Name:           Asus Vivobook S14 A411UF
     2.CPU:            Intel Core i5-8250U
@@ -19,15 +21,19 @@ Extras Information
 ==================
     [How to Activate Microphone on Conexant Codecs and others.](https://mail.olarila.com/forum/viewtopic.php?t=7782)
 
-# Thing will not able to use
+Thing will not able to use
+==========================
+
     1. DGPU like MX130
     2. Fingerprint
 
-# Known problems ( everything excepts )
+Known problems ( everything excepts )
+=====================================
 
     1.  HDMI
 
-# Credits Goes to
+Credits Goes to
+===============
 this config based on @hieplpvip on https://github.com/hieplpvip/ASUS-ZENBOOK-HACKINTOSH
 
 @alexandred and his team for VoodooI2C
