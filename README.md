@@ -15,8 +15,11 @@ Clover hotpatches for ASUS A411UF based on hieplpvip adapted for A411UF
     8.Touchpad:       ELAN1300
     9.Bios Version:   302
 
-# Thing will not able to use
+Extras Information
+==================
+    [How to Activate Microphone on Conexant Codecs and others.](https://mail.olarila.com/forum/viewtopic.php?t=7782)
 
+# Thing will not able to use
     1. DGPU like MX130
     2. Fingerprint
 
