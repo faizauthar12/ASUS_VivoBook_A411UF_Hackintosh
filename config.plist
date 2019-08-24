@@ -29,7 +29,7 @@
 			<array>
 				<dict>
 					<key>Comment</key>
-					<string>change APSS to APXX</string>
+					<string>rename APSS to APXX</string>
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
@@ -43,7 +43,7 @@
 				</dict>
 				<dict>
 					<key>Comment</key>
-					<string>change OSID to XSID (to avoid match against _OSI XOSI patch)</string>
+					<string>rename OSID to XSID (to avoid match against _OSI XOSI patch)</string>
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
@@ -57,7 +57,7 @@
 				</dict>
 				<dict>
 					<key>Comment</key>
-					<string>change _OSI to XOSI</string>
+					<string>rename _OSI to XOSI</string>
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
@@ -71,7 +71,7 @@
 				</dict>
 				<dict>
 					<key>Comment</key>
-					<string>change _DSM to XDSM</string>
+					<string>rename _DSM to XDSM</string>
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
@@ -85,7 +85,7 @@
 				</dict>
 				<dict>
 					<key>Comment</key>
-					<string>change EHC1 to EH01</string>
+					<string>rename EHC1 to EH01</string>
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
@@ -99,7 +99,7 @@
 				</dict>
 				<dict>
 					<key>Comment</key>
-					<string>change EHC2 to EH02</string>
+					<string>rename EHC2 to EH02</string>
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
@@ -113,7 +113,7 @@
 				</dict>
 				<dict>
 					<key>Comment</key>
-					<string>change EUSB to EH01</string>
+					<string>rename EUSB to EH01</string>
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
@@ -127,7 +127,7 @@
 				</dict>
 				<dict>
 					<key>Comment</key>
-					<string>change USBE to EH02</string>
+					<string>rename USBE to EH02</string>
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
@@ -141,7 +141,7 @@
 				</dict>
 				<dict>
 					<key>Comment</key>
-					<string>change GFX0 to IGPU</string>
+					<string>rename GFX0 to IGPU</string>
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
@@ -155,7 +155,7 @@
 				</dict>
 				<dict>
 					<key>Comment</key>
-					<string>change HDAS to HDEF</string>
+					<string>rename HDAS to HDEF</string>
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
@@ -169,7 +169,7 @@
 				</dict>
 				<dict>
 					<key>Comment</key>
-					<string>change AZAL to HDEF</string>
+					<string>rename AZAL to HDEF</string>
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
@@ -183,7 +183,7 @@
 				</dict>
 				<dict>
 					<key>Comment</key>
-					<string>change B0D3 to HDAU</string>
+					<string>rename B0D3 to HDAU</string>
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
@@ -197,7 +197,7 @@
 				</dict>
 				<dict>
 					<key>Comment</key>
-					<string>change HECI to IMEI</string>
+					<string>rename HECI to IMEI</string>
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
@@ -211,7 +211,7 @@
 				</dict>
 				<dict>
 					<key>Comment</key>
-					<string>change MEI to IMEI</string>
+					<string>rename MEI to IMEI</string>
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
@@ -225,7 +225,7 @@
 				</dict>
 				<dict>
 					<key>Comment</key>
-					<string>change SAT0 to SATA</string>
+					<string>rename SAT0 to SATA</string>
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
@@ -239,7 +239,7 @@
 				</dict>
 				<dict>
 					<key>Comment</key>
-					<string>change LPC to LPCB</string>
+					<string>rename LPC to LPCB</string>
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
@@ -253,7 +253,7 @@
 				</dict>
 				<dict>
 					<key>Comment</key>
-					<string>change _REG to XREG in EC0</string>
+					<string>rename _REG to XREG in EC0</string>
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
@@ -267,7 +267,7 @@
 				</dict>
 				<dict>
 					<key>Comment</key>
-					<string>change Method(_PTS,1,N) to ZPTS, pair with SSDT-PTSWAK.aml</string>
+					<string>rename Method(_PTS,1,N) to ZPTS, pair with SSDT-PTSWAK.aml</string>
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
@@ -281,7 +281,7 @@
 				</dict>
 				<dict>
 					<key>Comment</key>
-					<string>change Method(_PTS,1,S) to ZPTS, pair with SSDT-PTSWAK.aml</string>
+					<string>rename Method(_PTS,1,S) to ZPTS, pair with SSDT-PTSWAK.aml</string>
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
@@ -295,7 +295,7 @@
 				</dict>
 				<dict>
 					<key>Comment</key>
-					<string>change Method(_WAK,1,N) to ZWAK, pair with SSDT-PTSWAK.aml</string>
+					<string>rename Method(_WAK,1,N) to ZWAK, pair with SSDT-PTSWAK.aml</string>
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
@@ -309,7 +309,7 @@
 				</dict>
 				<dict>
 					<key>Comment</key>
-					<string>change Method(_WAK,1,S) to ZWAK, pair with SSDT-PTSWAK.aml</string>
+					<string>rename Method(_WAK,1,S) to ZWAK, pair with SSDT-PTSWAK.aml</string>
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
@@ -323,7 +323,7 @@
 				</dict>
 				<dict>
 					<key>Comment</key>
-					<string>change Method(GPRW,2,N) to XPRW</string>
+					<string>rename Method(GPRW,2,N) to XPRW</string>
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
@@ -337,189 +337,7 @@
 				</dict>
 				<dict>
 					<key>Comment</key>
-					<string>Battery: Rename Method(_BIX,0) to Method(XBIX,0)</string>
-					<key>Disabled</key>
-					<false/>
-					<key>Find</key>
-					<data>
-					X0JJWAA=
-					</data>
-					<key>Replace</key>
-					<data>
-					WEJJWAA=
-					</data>
-				</dict>
-				<dict>
-					<key>Comment</key>
-					<string>Battery: Rename Method(BIFA,0) to Method(XBIF,0)</string>
-					<key>Disabled</key>
-					<false/>
-					<key>Find</key>
-					<data>
-					QklGQQA=
-					</data>
-					<key>Replace</key>
-					<data>
-					WEJJRgA=
-					</data>
-				</dict>
-				<dict>
-					<key>Comment</key>
-					<string>Battery: Rename Method(SMBR,3,Serialized) to Method(XSMR,3,Serialized)</string>
-					<key>Disabled</key>
-					<false/>
-					<key>Find</key>
-					<data>
-					U01CUgs=
-					</data>
-					<key>Replace</key>
-					<data>
-					WFNNUgs=
-					</data>
-				</dict>
-				<dict>
-					<key>Comment</key>
-					<string>Battery: Rename Method(SMBW,5,Serialized) to Method(XSMW,5,Serialized)</string>
-					<key>Disabled</key>
-					<false/>
-					<key>Find</key>
-					<data>
-					U01CVw0=
-					</data>
-					<key>Replace</key>
-					<data>
-					WFNNVw0=
-					</data>
-				</dict>
-				<dict>
-					<key>Comment</key>
-					<string>Battery: Rename Method(FBST,4) to Method(XBST,4)</string>
-					<key>Disabled</key>
-					<false/>
-					<key>Find</key>
-					<data>
-					RkJTVAQ=
-					</data>
-					<key>Replace</key>
-					<data>
-					WEJTVAQ=
-					</data>
-				</dict>
-				<dict>
-					<key>Comment</key>
-					<string>ALS: change Method(RALS,0,S) XALS</string>
-					<key>Disabled</key>
-					<false/>
-					<key>Find</key>
-					<data>
-					UkFMUwA=
-					</data>
-					<key>Replace</key>
-					<data>
-					WEFMUwA=
-					</data>
-				</dict>
-				<dict>
-					<key>Comment</key>
-					<string>change Method(_Q0A,0,NS) to XQ0A</string>
-					<key>Disabled</key>
-					<false/>
-					<key>Find</key>
-					<data>
-					X1EwQQA=
-					</data>
-					<key>Replace</key>
-					<data>
-					WFEwQQA=
-					</data>
-				</dict>
-				<dict>
-					<key>Comment</key>
-					<string>change Method(_Q0B,0,NS) to XQ0B</string>
-					<key>Disabled</key>
-					<false/>
-					<key>Find</key>
-					<data>
-					X1EwQgA=
-					</data>
-					<key>Replace</key>
-					<data>
-					WFEwQgA=
-					</data>
-				</dict>
-				<dict>
-					<key>Comment</key>
-					<string>change Method(_Q0E,0,NS) to XQ0E</string>
-					<key>Disabled</key>
-					<false/>
-					<key>Find</key>
-					<data>
-					X1EwRQA=
-					</data>
-					<key>Replace</key>
-					<data>
-					WFEwRQA=
-					</data>
-				</dict>
-				<dict>
-					<key>Comment</key>
-					<string>change Method(_Q0F,0,NS) to XQ0F</string>
-					<key>Disabled</key>
-					<false/>
-					<key>Find</key>
-					<data>
-					X1EwRgA=
-					</data>
-					<key>Replace</key>
-					<data>
-					WFEwRgA=
-					</data>
-				</dict>
-				<dict>
-					<key>Comment</key>
-					<string>change Method(_QCD,0,NS) to XQCD</string>
-					<key>Disabled</key>
-					<false/>
-					<key>Find</key>
-					<data>
-					X1FDRAA=
-					</data>
-					<key>Replace</key>
-					<data>
-					WFFDRAA=
-					</data>
-				</dict>
-				<dict>
-					<key>Comment</key>
-					<string>change Method(_Q11,0,NS) to XQ11</string>
-					<key>Disabled</key>
-					<false/>
-					<key>Find</key>
-					<data>
-					X1ExMQg=
-					</data>
-					<key>Replace</key>
-					<data>
-					WFExMQg=
-					</data>
-				</dict>
-				<dict>
-					<key>Comment</key>
-					<string>change Method(_Q76,0,NS) to XQ76</string>
-					<key>Disabled</key>
-					<false/>
-					<key>Find</key>
-					<data>
-					X1E3NgA=
-					</data>
-					<key>Replace</key>
-					<data>
-					WFE3NgA=
-					</data>
-				</dict>
-				<dict>
-					<key>Comment</key>
-					<string>change _STA methods in MATH and LDR2 device to XSTA</string>
+					<string>rename _STA methods in MATH and LDR2 device to XSTA</string>
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
@@ -533,9 +351,233 @@
 				</dict>
 				<dict>
 					<key>Comment</key>
-					<string>change Method(_STA,0,NS) in GPI0 to XSTA</string>
+					<string>(Battery) Rename Method(_BIX,0) to Method(XBIX,0)</string>
 					<key>Disabled</key>
 					<false/>
+					<key>Find</key>
+					<data>
+					X0JJWAA=
+					</data>
+					<key>Replace</key>
+					<data>
+					WEJJWAA=
+					</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>(Battery) Rename Method(BIFA,0) to Method(XBIF,0)</string>
+					<key>Disabled</key>
+					<false/>
+					<key>Find</key>
+					<data>
+					QklGQQA=
+					</data>
+					<key>Replace</key>
+					<data>
+					WEJJRgA=
+					</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>(Battery) Rename Method(SMBR,3,S) to Method(XSMR,3,S)</string>
+					<key>Disabled</key>
+					<false/>
+					<key>Find</key>
+					<data>
+					U01CUgs=
+					</data>
+					<key>Replace</key>
+					<data>
+					WFNNUgs=
+					</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>(Battery) Rename Method(SMBW,5,S) to Method(XSMW,5,S)</string>
+					<key>Disabled</key>
+					<false/>
+					<key>Find</key>
+					<data>
+					U01CVw0=
+					</data>
+					<key>Replace</key>
+					<data>
+					WFNNVw0=
+					</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>(Battery) Rename Method(FBST,4) to Method(XBST,4)</string>
+					<key>Disabled</key>
+					<false/>
+					<key>Find</key>
+					<data>
+					RkJTVAQ=
+					</data>
+					<key>Replace</key>
+					<data>
+					WEJTVAQ=
+					</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>(ATK) rename Method(IANE,1,S) to XANE</string>
+					<key>Disabled</key>
+					<false/>
+					<key>Find</key>
+					<data>
+					SUFORQk=
+					</data>
+					<key>Replace</key>
+					<data>
+					WEFORQk=
+					</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>(ATK) rename Method(RALS,0,NS) to XALS</string>
+					<key>Disabled</key>
+					<false/>
+					<key>Find</key>
+					<data>
+					UkFMUwA=
+					</data>
+					<key>Replace</key>
+					<data>
+					WEFMUwA=
+					</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>(ATK) rename Method(_Q0A,0,NS) to XQ0A</string>
+					<key>Disabled</key>
+					<false/>
+					<key>Find</key>
+					<data>
+					X1EwQQA=
+					</data>
+					<key>Replace</key>
+					<data>
+					WFEwQQA=
+					</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>(ATK) rename Method(_Q0B,0,NS) to XQ0B</string>
+					<key>Disabled</key>
+					<false/>
+					<key>Find</key>
+					<data>
+					X1EwQgA=
+					</data>
+					<key>Replace</key>
+					<data>
+					WFEwQgA=
+					</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>(ATK) rename Method(_Q0E,0,NS) to XQ0E</string>
+					<key>Disabled</key>
+					<false/>
+					<key>Find</key>
+					<data>
+					X1EwRQA=
+					</data>
+					<key>Replace</key>
+					<data>
+					WFEwRQA=
+					</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>(ATK) rename Method(_Q0F,0,NS) to XQ0F</string>
+					<key>Disabled</key>
+					<false/>
+					<key>Find</key>
+					<data>
+					X1EwRgA=
+					</data>
+					<key>Replace</key>
+					<data>
+					WFEwRgA=
+					</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>(ATK) rename Method(_QCD,0,NS) to XQCD</string>
+					<key>Disabled</key>
+					<false/>
+					<key>Find</key>
+					<data>
+					X1FDRAA=
+					</data>
+					<key>Replace</key>
+					<data>
+					WFFDRAA=
+					</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>(ATK) rename Method(_Q11,0,NS) to XQ11</string>
+					<key>Disabled</key>
+					<false/>
+					<key>Find</key>
+					<data>
+					X1ExMQg=
+					</data>
+					<key>Replace</key>
+					<data>
+					WFExMQg=
+					</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>(ATK) rename Method(_Q76,0,NS) to XQ76</string>
+					<key>Disabled</key>
+					<false/>
+					<key>Find</key>
+					<data>
+					X1E3NgA=
+					</data>
+					<key>Replace</key>
+					<data>
+					WFE3NgA=
+					</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>(I2C) rename SSCN to XSCN</string>
+					<key>Disabled</key>
+					<false/>
+					<key>Find</key>
+					<data>
+					U1NDTg==
+					</data>
+					<key>Replace</key>
+					<data>
+					WFNDTg==
+					</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>(I2C) rename FMCN to XMCN</string>
+					<key>Disabled</key>
+					<false/>
+					<key>Find</key>
+					<data>
+					Rk1DTg==
+					</data>
+					<key>Replace</key>
+					<data>
+					WE1DTg==
+					</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>(I2C) rename Method(_STA,0,NS) in GPI0 to XSTA</string>
+					<key>Disabled</key>
+					<true/>
 					<key>Find</key>
 					<data>
 					X1NUQQCgCZNTQlJH
@@ -547,9 +589,9 @@
 				</dict>
 				<dict>
 					<key>Comment</key>
-					<string>change Method(_CRS,0,S) in ETPD to XCRS</string>
+					<string>(I2C) rename Method(_CRS,0,S) in ETPD to XCRS</string>
 					<key>Disabled</key>
-					<false/>
+					<true/>
 					<key>Find</key>
 					<data>
 					X0NSUwgIU0JGSQ==
@@ -564,8 +606,8 @@
 		<key>DisabledAML</key>
 		<array>
 			<string>SSDT.aml</string>
-			<string>SSDT-PluginType1.aml</string>
 			<string>SSDT-XCPM.aml</string>
+			<string>SSDT-PluginType1.aml</string>
 		</array>
 		<key>DropTables</key>
 		<array>
@@ -602,10 +644,12 @@
 	<key>Boot</key>
 	<dict>
 		<key>Arguments</key>
-		<string>dart=0 nv_disable=1 -disablegfxfirmware -cdfon -igfxnohdmi lilucpu=9 -v</string>
+		<string>dart=0 nv_disable=1 -disablegfxfirmware -cdfon -wegnoegpu brcmfx-driver=1</string>
 		<key>DefaultVolume</key>
 		<string>LastBootedVolume</string>
 		<key>NeverHibernate</key>
+		<true/>
+		<key>NoEarlyProgress</key>
 		<true/>
 		<key>Secure</key>
 		<false/>
@@ -613,7 +657,7 @@
 		<integer>5</integer>
 	</dict>
 	<key>Comment</key>
-	<string>This config is created by @faizauthar based on @hieplpvip config https://github.com/hieplpvip/ASUS-ZENBOOK-HACKINTOSH </string>
+	<string>This config is created by @hieplpvip for S510 (KabyLake-R)</string>
 	<key>Devices</key>
 	<dict>
 		<key>AddProperties</key>
@@ -729,8 +773,24 @@
 		</array>
 		<key>Audio</key>
 		<dict>
-			<key>Inject</key>
-			<integer>0</integer>
+			<key>AFGLowPowerState</key>
+			<false/>
+		</dict>
+		<key>Properties</key>
+		<dict>
+			<key>PciRoot(0x0)/Pci(0x1c,0x5)/Pci(0x0,0x0)</key>
+			<dict>
+				<key>AAPL,slot-name</key>
+				<string>WLAN</string>
+				<key>compatible</key>
+				<string>pci14e4,4353</string>
+				<key>device_type</key>
+				<string>Airport Extreme</string>
+				<key>model</key>
+				<string>Dell DW1820 (BCM4350) 802.11ac wireless</string>
+				<key>name</key>
+				<string>Airport</string>
+			</dict>
 		</dict>
 		<key>USB</key>
 		<dict>
@@ -741,11 +801,10 @@
 			<key>Inject</key>
 			<true/>
 		</dict>
-		<key>UseIntelHDMI</key>
-		<true/>
 	</dict>
 	<key>DisableDrivers</key>
 	<array>
+		<string>SMCHelper</string>
 		<string>VBoxHfs</string>
 	</array>
 	<key>GUI</key>
@@ -801,7 +860,7 @@
 			<true/>
 		</dict>
 		<key>Theme</key>
-		<string>embedded</string>
+		<string>BGM</string>
 	</dict>
 	<key>Graphics</key>
 	<dict>
@@ -810,7 +869,7 @@
 			<key>ATI</key>
 			<false/>
 			<key>Intel</key>
-			<true/>
+			<false/>
 			<key>NVidia</key>
 			<false/>
 		</dict>
@@ -824,7 +883,7 @@
 		<key>ForceKextsToLoad</key>
 		<array>
 			<string>\System\Library\Extensions\IONetworkingFamily.kext</string>
-			<string>\System\Library\Extensions\IOGraphicsFamily.kext</string>
+			<string>\System\Library\Extensions\AppleIntelKBLGraphicsFramebuffer.kext</string>
 		</array>
 		<key>KernelLapic</key>
 		<true/>
@@ -987,8 +1046,9 @@
 	<key>SMBIOS</key>
 	<dict>
 		<key>ProductName</key>
-		<string>MacBookPro15,2</string>
+		<string>MacBookPro14,1</string>
 		<key>Trust</key>
+		<true/>
 	</dict>
 	<key>SystemParameters</key>
 	<dict>
