@@ -484,7 +484,7 @@
 	<key>Boot</key>
 	<dict>
 		<key>Arguments</key>
-		<string>dart=0 npci=0x2000</string>
+		<string>dart=0 npci=0x2000 brcmfx-driver=1</string>
 		<key>DefaultVolume</key>
 		<string>LastBootedVolume</string>
 		<key>NeverHibernate</key>
