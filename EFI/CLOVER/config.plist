@@ -137,6 +137,16 @@
 					<key>Replace</key>
 					<data>WFBSVwI=</data>
 				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>change PEGP _INI to XINI (DGPU)</string>
+					<key>Disabled</key>
+					<false/>
+					<key>Find</key>
+					<data>MVBFR1AUH19JTkkA</data>
+					<key>Replace</key>
+					<data>MVBFR1AUH1hJTkkA</data>
+				</dict>
 			</array>
 		</dict>
 		<key>DropTables</key>
@@ -169,8 +179,6 @@
 	</dict>
 	<key>Boot</key>
 	<dict>
-		<key>Arguments</key>
-		<string>-wegnoegpu</string>
 		<key>CustomLogo</key>
 		<string>Theme</string>
 		<key>Debug</key>
