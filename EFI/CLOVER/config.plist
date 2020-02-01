@@ -147,6 +147,96 @@
 					<key>Replace</key>
 					<data>MVBFR1AUH1hJTkkA</data>
 				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>(ATK) rename Method(IANE,1,S) to XANE</string>
+					<key>Disabled</key>
+					<false/>
+					<key>Find</key>
+					<data>SUFORQk=</data>
+					<key>Replace</key>
+					<data>WEFORQk=</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>(ATK) rename Method(RALS,0,NS) to XALS</string>
+					<key>Disabled</key>
+					<false/>
+					<key>Find</key>
+					<data>UkFMUwA=</data>
+					<key>Replace</key>
+					<data>WEFMUwA=</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>(ATK) rename Method(_Q0A,0,NS) to XQ0A</string>
+					<key>Disabled</key>
+					<false/>
+					<key>Find</key>
+					<data>X1EwQQA=</data>
+					<key>Replace</key>
+					<data>WFEwQQA=</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>(ATK) rename Method(_Q0B,0,NS) to XQ0B</string>
+					<key>Disabled</key>
+					<false/>
+					<key>Find</key>
+					<data>X1EwQgA=</data>
+					<key>Replace</key>
+					<data>WFEwQgA=</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>(ATK) rename Method(_Q0E,0,NS) to XQ0E</string>
+					<key>Disabled</key>
+					<false/>
+					<key>Find</key>
+					<data>X1EwRQA=</data>
+					<key>Replace</key>
+					<data>WFEwRQA=</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>(ATK) rename Method(_Q0F,0,NS) to XQ0F</string>
+					<key>Disabled</key>
+					<false/>
+					<key>Find</key>
+					<data>X1EwRgA=</data>
+					<key>Replace</key>
+					<data>WFEwRgA=</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>(ATK) rename Method(_QCD,0,NS) to XQCD</string>
+					<key>Disabled</key>
+					<false/>
+					<key>Find</key>
+					<data>X1FDRAA=</data>
+					<key>Replace</key>
+					<data>WFFDRAA=</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>(ATK) rename Method(_Q11,0,NS) to XQ11</string>
+					<key>Disabled</key>
+					<false/>
+					<key>Find</key>
+					<data>X1ExMQg=</data>
+					<key>Replace</key>
+					<data>WFExMQg=</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>(ATK) rename Method(_Q76,0,NS) to XQ76</string>
+					<key>Disabled</key>
+					<false/>
+					<key>Find</key>
+					<data>X1E3NgA=</data>
+					<key>Replace</key>
+					<data>WFE3NgA=</data>
+				</dict>
 			</array>
 		</dict>
 		<key>DropTables</key>
