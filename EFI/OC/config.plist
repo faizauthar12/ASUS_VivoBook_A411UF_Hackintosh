@@ -26,6 +26,14 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
+				<string>SSDT-dGPU-Off.aml</string>
+				<key>Path</key>
+				<string>SSDT-dGPU-Off.aml</string>
+				<key>Enabled</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>Comment</key>
 				<string>SSDT-GPIO.aml</string>
 				<key>Path</key>
 				<string>SSDT-GPIO.aml</string>
@@ -978,7 +986,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>-v keepsyms=1 debug=0x100 alcid=13 -wegnoegpu</string>
+				<string>-v keepsyms=1 debug=0x100 alcid=13</string>
 				<key>csr-active-config</key>
 				<data>AAAAAA==</data>
 			</dict>
