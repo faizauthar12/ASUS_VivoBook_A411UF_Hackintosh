@@ -42,14 +42,6 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>SSDT-PEGPOFF.aml</string>
-				<key>Path</key>
-				<string>SSDT-PEGPOFF.aml</string>
-				<key>Enabled</key>
-				<true/>
-			</dict>
-			<dict>
-				<key>Comment</key>
 				<string>SSDT-PLUG.aml</string>
 				<key>Path</key>
 				<string>SSDT-PLUG.aml</string>
@@ -986,7 +978,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>-v keepsyms=1 debug=0x100 alcid=13</string>
+				<string>-v keepsyms=1 debug=0x100 alcid=13 -wegnoegpu</string>
 				<key>csr-active-config</key>
 				<data>AAAAAA==</data>
 			</dict>
