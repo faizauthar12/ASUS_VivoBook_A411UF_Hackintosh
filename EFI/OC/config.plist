@@ -26,6 +26,14 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
+				<string>SSDT-BATT.aml</string>
+				<key>Path</key>
+				<string>SSDT-BATT.aml</string>
+				<key>Enabled</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>Comment</key>
 				<string>SSDT-dGPU-Off.aml</string>
 				<key>Path</key>
 				<string>SSDT-dGPU-Off.aml</string>
