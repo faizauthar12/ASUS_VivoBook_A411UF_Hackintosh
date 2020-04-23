@@ -18,9 +18,9 @@
 		<array>
 			<dict>
 				<key>Comment</key>
-				<string>SSDT-CX8050.aml</string>
+				<string>SSDT-BATT.aml</string>
 				<key>Path</key>
-				<string>SSDT-CX8050.aml</string>
+				<string>SSDT-BATT.aml</string>
 				<key>Enabled</key>
 				<true/>
 			</dict>
