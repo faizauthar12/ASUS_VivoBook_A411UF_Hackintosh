@@ -30,3 +30,12 @@
 2. Realtek SD Card
 3. Fingerprint reader
 4. HDMI
+
+## References
+1. [Dortania's guide](https://github.com/dortania/vanilla-laptop-guide)
+2. [toleda's wifi](https://github.com/toleda/wireless_half-mini)
+3. [Herve's DW1820A guide](https://osxlatitude.com/forums/topic/11322-broadcom-bcm4350-cards-under-high-sierramojavecatalina/)
+4. [cowcowpod's guide](https://www.tonymacx86.com/threads/guide-mojave-on-zenbook-s14-x411u-s410u.276311/)
+5. [Hackintosh Reddit and Discord](https://reddit.com/r/hackintosh)
+6. [hieplpvip's AsusSMC](https://github.com/hieplpvip/AsusSMC)
+7. [acidanthera](https://github.com/acidanthera)
