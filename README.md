@@ -14,6 +14,7 @@
 | Touchpad    | ELAN1300                         |
 | Fingerprint | ELAN1300(unused)                 |
 | SDCard      | unused                           |
+| Screen      | 1366x768(replaced with 1920x1080)|
 
 ## Working
 1. QE/CI
