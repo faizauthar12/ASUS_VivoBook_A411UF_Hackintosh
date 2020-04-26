@@ -42,14 +42,6 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>SSDT-GPIO.aml</string>
-				<key>Path</key>
-				<string>SSDT-GPIO.aml</string>
-				<key>Enabled</key>
-				<true/>
-			</dict>
-			<dict>
-				<key>Comment</key>
 				<string>SSDT-GPRW.aml</string>
 				<key>Path</key>
 				<string>SSDT-GPRW.aml</string>
