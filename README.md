@@ -40,3 +40,11 @@
 5. [Hackintosh Reddit and Discord](https://reddit.com/r/hackintosh)
 6. [hieplpvip's AsusSMC](https://github.com/hieplpvip/AsusSMC)
 7. [acidanthera](https://github.com/acidanthera)
+
+# Screenshots
+## PCI Devices
+<details>
+  <summary>PCI Devices</summary>
+
+![PCI Devices](Screenshots/Screenshot2.png)
+</details>
