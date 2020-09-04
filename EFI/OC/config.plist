@@ -40,6 +40,14 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
+				<string>SSDT-DMAC.aml</string>
+				<key>Path</key>
+				<string>SSDT-DMAC.aml</string>
+				<key>Enabled</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>Comment</key>
 				<string>SSDT-EC-USBX-LAPTOP.aml</string>
 				<key>Path</key>
 				<string>SSDT-EC-USBX-LAPTOP.aml</string>
@@ -72,9 +80,25 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
+				<string>SSDT-MEM2.aml</string>
+				<key>Path</key>
+				<string>SSDT-MEM2.aml</string>
+				<key>Enabled</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>Comment</key>
 				<string>SSDT-PLUG.aml</string>
 				<key>Path</key>
 				<string>SSDT-PLUG.aml</string>
+				<key>Enabled</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>SSDT-PMC.aml</string>
+				<key>Path</key>
+				<string>SSDT-PMC.aml</string>
 				<key>Enabled</key>
 				<true/>
 			</dict>
