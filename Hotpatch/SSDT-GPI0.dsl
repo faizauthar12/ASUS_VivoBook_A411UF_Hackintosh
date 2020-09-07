@@ -1,11 +1,19 @@
-DefinitionBlock ("", "SSDT", 2, "hack", "I2C", 0)
+// Source: https://github.com/daliansky/OC-little
+DefinitionBlock("", "SSDT", 2, "DRTNIA", "GPI0", 0)
 {
-    External (_SB.PCI0.GPI0, DeviceObj)
-    Scope (_SB.PCI0.GPI0)
+    External(GPEN, FieldUnitObj)
+    External(SBRG, FieldUnitObj)
+    
+    Scope (\)
     {
-        Method (_STA, 0)
+        If (_OSI ("Darwin"))
         {
-            Return (0x0F)
+            GPEN = One
+            SBRG = One
+        }
+        Else
+        {
+            
         }
     }
 }
